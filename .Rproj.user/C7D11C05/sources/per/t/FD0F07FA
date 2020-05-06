@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1133301866",
+    "hash" : "2143131152",
     "id" : "FD0F07FA",
-    "lastKnownWriteTime" : 1588784642,
-    "last_content_update" : 1588784642,
+    "lastKnownWriteTime" : 1588785089,
+    "last_content_update" : 1588785089800,
     "path" : "~/easyos/R/hello.R",
     "project_path" : "R/hello.R",
     "properties" : {
+        "cursorPosition" : "15,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [

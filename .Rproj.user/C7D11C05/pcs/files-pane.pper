@@ -1,0 +1,9 @@
+{
+    "path" : "~/easyos",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
