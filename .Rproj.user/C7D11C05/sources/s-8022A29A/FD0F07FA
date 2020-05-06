@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588784644544.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1133301866",
+    "id" : "FD0F07FA",
+    "lastKnownWriteTime" : 1588784642,
+    "last_content_update" : 1588784642,
+    "path" : "~/easyos/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
